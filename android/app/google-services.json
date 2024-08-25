@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9782953501",
+    "project_id": "hive-task",
+    "storage_bucket": "hive-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9782953501:android:6ffded744d27490400e8f4",
+        "android_client_info": {
+          "package_name": "com.example.beekeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkMgw2lHMoZ10YE_vj750R6NLKyKSjTLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
